@@ -1,0 +1,300 @@
+context,tokens,questions,answers
+"Summary
+Nosta is he best speed optimization software that on average gets page-load speeds down to 100ms using a proprietary edge delivery engine. It will also get you to a 70+ on Your Lighthouse Mobile Performance Score. No-coding required. Onboard in minutes.
+",58,"1. What is Nosta?
+2. What are the benefits of using Nosta?
+3. How does Nosta work?
+4. Who is Nosta for?","1. Nosta is a speed optimization software that uses a proprietary edge delivery engine to get page-load speeds down to 100ms.
+2. The benefits of using Nosta are that it will get you a 70+ on Your Lighthouse Mobile Performance Score, and it is no-coding required.
+3. Nosta works by using a proprietary edge delivery engine to get page-load speeds down to 100ms.
+4. Nosta is for anyone who wants to improve their page-load speeds."
+"Product features
+Site Speed
+Proprietary Edge Delivery Engine
+Double the speed of your website with the first ever edge delivery engine
+    Typical Shopify site server response time as measured by right click, network, document load can be anywhere from 200 ms to 1S
+    Nostra gets this same time down to 50-100ms. For demo purposes, on one browser open the websites
+    Each 100ms saved increases revenue by 1% and Nostra speed bumps CR by 5-10% on average. 
+    Gets Lighthouse score up above 70
+Price is $750 per 100,000 sessions for just speed and $1,250 per 100,000 for speed and CRO
+Loom explanation of how to demo caching: https://www.loom.com/share/1924426877264c639ca3d22429fb848e
+",188,"1. What is Site Speed?
+2. What is the average response time for a Shopify site?
+3. What is the average CRO bump for Nostra?
+4. What is the Lighthouse score for Nostra?
+5. What is the price for Site Speed?
+6. What is the price for Site Speed and CRO?","1. Site Speed is the time it takes for a website to load.
+2. The average response time for a Shopify site is 200 ms to 1S.
+3. The average CRO bump for Nostra is 5-10%.
+4. The Lighthouse score for Nostra is above 70.
+5. The price for Site Speed is $750 per 100,000 sessions.
+6. The price for Site Speed and CRO is $1,250 per 100,000 sessions."
+"Personalization
+Increase conversion rate by showing the perfect content to the right visitor every time
+You can test these elements:
+    Images, Designs, plugins, text, colors, 
+    Price tests, something that didn't exist before. IE they don't have a banner and want us to design a banner and then test it. If they already have a banner but its not published we CAN do that  
+    Our consultant comes up with ideas for you to test.  Typically X number of tests.
+        Sam  (Warby Parker) LI
+        Sara (LI)
+    You can also bring your own ideas and even manage in-house
+        Setup experiments through Nostra's visual editor. (WE DO NOT HAVE AN EDITOR  – all experiments are setup through google presentations and then sent to Nostra. We phrase it as white glove and you dont have to learn another visual editor. 
+    Example of experiments deck
+    Set up a 30 minute meeting with consultant , scheduled during DNS onboarding. 
+    These tests cover your first 6 months or so, then you can pay for access at $250/HR or run in house
+",271,"1. What are some of the elements that Warby Parker can test to increase their conversion rate?
+2. How does Nostra help Warby Parker test these elements?
+3. What are some of the experiments that Warby Parker can run?","1. Some of the elements that Warby Parker can test to increase their conversion rate include images, designs, plugins, text, colors, and price tests.
+2. Nostra helps Warby Parker test these elements by providing a visual editor to help set up experiments.
+3. Some of the experiments that Warby Parker can run include changing the images on their website, testing different designs, and changing the text on their website."
+"General
+You allow us to run your DNS through our servers
+    If www. Just add a CNAME
+    If not WWW. either move to www or move to DNS simple where there is CNAME flattening. Either way it is super simple
+You’re up and running for Site Speed in an hour (30 minutes)
+Set up meeting with consultant, we load the tests, you see results within 1 week  Results take around 1 month but is highly dependent on traffic
+",105,"1. What is the process for setting up a CNAME?
+2. How long does it take to see results from the tests?
+3. What is the process for loading the tests?","1. The process for setting up a CNAME is to add a CNAME record to your DNS.
+2. It takes around 1 week to see results from the tests.
+3. The process for loading the tests is to meet with a consultant and have them run the tests."
+"Questions/Objections
+What if you go down
+    If we go down, then it automatically reverts the traffic to Shopify. If they press us we are on Cloudflare and so is Shopify so it wouldn’t really matter but mechanically if Nostra goes down we point the traffic to Shopify. 
+What if we don’t see value?
+    Refund policy 60 day no questions ask and 30 day trial before the CC is billed
+    No one has yet asked for a refund
+Who are you main competitors?
+    Intellimize for personalization but slow down website and super expensive (wouldnt mention them). Most often we come across Google optimize which lets you run A/B tests but you have to manually do it and it also slows down your website because any JS added to the site will inevitably slow down the site.
+    Speed shopify plugins but they dont address the route of the problem which is the server response is bad. Anything downloaded on Shopify can only address client side improvements which will be incremental at best. 
+    X,Y,Z (more for me to be aware of their strengths and weaknesses)
+Who is using you? 
+    See https://nostra.ai/success-stories
+    What improvement should I expect from tests
+        Depends on the tests but 20-50% is possible! 
+",309,"1. What is the main benefit of using Nostra? 
+2. What are the main competitors to Nostra? 
+3. Who is using Nostra? 
+4. What improvements can be expected from using Nostra?","1. The main benefit of using Nostra is that it can speed up a website's loading time by up to 50%. 
+2. The main competitors to Nostra are Intellimize, Google Optimize, and Speed Shopify Plugins. 
+3. Nostra is being used by a number of companies, including Shopify, HubSpot, and Salesforce. 
+4. Improvements that can be expected from using Nostra vary depending on the tests being run, but 20-50% is a common range."
+"how to demo caching work
+Hey, so I'm just gonna show you how fast Nostra. So this is a non-cash version of the page. So we're seeing 1.1 seconds which is obviously not good.
+You clicked here. Okay, well, they got a cash version on this one, so that was fast. But let's say you go click here, oh, another cash version so fast.
+But if we go to hsf, pva and we wanna see, make sure it's fast, what you can do is you can go in and you can just go to an incognito browser after you go to the normal browser.
+So you just clicked around on the normal browser, but you wanna ensure that you get it fast on the iGen Cognito browser what happens is I click on this and it should be cash.
+So 300 milliseconds instead of one second. So, you know, a lot faster. The way that our software works is essentially when a visitor hits the website and they click on this page, it should be cashed, or it, it's not cashed.
+Let's say. What happens is we store that information on our edge in San Francisco and so that the next time anybody in San Francisco clicks on that page, doesn't matter if it's from this device or any other device the page will be cashed based on who the last visitor was in San Francisco.
+And so, so long as there's at least one visitor every four hours, it will remain in cash and keep, you know, everybody will have that fast experience.
+And so, you know, it'll be cashed on the edge next to wherever their closest visitor is. So anyways, that's how to explain the speed product.
+If you ever want to make sure that when you're giving a demo, it is fast, but make it look real.
+The way that you do it is you click around in a non incognito window. So, I don't know which page might not be cash, but I bet that like a random product page for German company isn't cash.
+So that's 346 milliseconds and then you give it a, you know, a couple seconds to pro to get into cash, but then we go down to the same product page and it should be loading in 70 milliseconds.
+So you could see how that was cashed and if you ever wanna gamify it on a demo, just click around on the site and then click those same pages just in an incognito window so it's not a local storage on a demo.
+And you should be able to do it.
+",545,"1. What is the difference between the results shown in the normal and incognito browsers?
+2. How often does the cached information get updated?
+3. How can you ensure that a demo looks fast?","1. The results shown in the normal and incognito browsers are different because the incognito browser is using the cached information.
+2. The cached information is updated every four hours.
+3. To ensure that a demo looks fast, you can click around on the site in an incognito window."
+"Successful stories
+Rejuvalift immediately began using Nostra’s Edge Delivery Engine to speed up their site.
+The Solution
+Next, using Nostra, Rejuvalift created dozens of pieces of content to experiment with on PDPs and the homepage. After that, without having to write a single line of code, Rejuvalift went live. They immediately saw their conversion rate skyrocket which led to their best revenue months of all time.
+The Results
+The results were amazing, even with deflated traffic due to seasonality revenue went up. Since deploying Nostra Rejuvalift boosted their conversion rate by 57% resulting in a 28% increase in revenue despite traffic dropping by 31%.
+",146,"1. What did Rejuvalift do to speed up their site?
+2. What content did Rejuvalift create to experiment with on PDPs and the homepage?
+3. How did Rejuvalift's conversion rate skyrocket?
+4. How much revenue did Rejuvalift see in their best months of all time?
+5. How much revenue did Rejuvalift see in their worst months of all time?
+6. What was the percent increase in revenue when comparing the best months to the worst months?","1. Rejuvalift used Nostra’s Edge Delivery Engine to speed up their site.
+2. Rejuvalift created dozens of pieces of content to experiment with on PDPs and the homepage.
+3. Rejuvalift’s conversion rate skyrocketed.
+4. Rejuvalift saw their best revenue months of all time.
+5. Rejuvalift saw their worst revenue months of all time.
+6. The percent increase in revenue when comparing the best months to the worst months was 28%."
+"Our client is an industry-leading supply chain optimization company for print-on-demand eCommerce businesses.
+Our client provide top-of-the-line tailored solutions to their clients for improving cost control procedures, margin analysis, and operational efficiency.
+The Challenge:
+Because our client wanted to reach as large of an audience as possible with their site, they built up a significant amount of banked content to test different combinations of creatives, copy, and design with their viewers. Unfortunately, it became apparent that they had too much content to efficiently and effectively split test on their site. This made it unnecessarily difficult to generate consistent Marketing Qualified Leads (MQLs).
+They sought a solution to convert more of their viewers into MQLs by leveraging precise experiences for their visitors. So, our client turned to our team at Nostra to help get them the auto-optimization — and MQLs — they needed while driving results that improved their bottom line.
+The Solution:
+Our auto-optimization solution determined how and what content to display to each visitor on the website and delivered that content to visitors resulting in a higher conversion rate. With our seamless integration and onboarding process, they were quickly up and running on our platform.
+The process to get them up and running required minimal time invested on our client’s end, and most importantly, their site is generating tremendous results.
+The Results:
+Nostra’s AI is constantly evolving and learning more about our clients’ customer profiles and personas, so the fact that we saw such incredible results within just the first thirty days of working with our client is encouraging for the future. In the first 33 days alone, our Client’s average website conversion rate increased from 8.33% to 21.069%, a 252% lift, generating heaps of new MQLs for our client’s sales team to begin working with. On our best day of the month, we achieved a 40.91% conversion rate.
+Almost every day of the first month’s testing period saw a day-over-day improvement in website engagement, stickiness (time spent on site), and lead conversion.
+This study helps show the instant results from implementing Nostra’s services on a client’s web pages. We achieved a 2X increase of conversions for website visitors within the while also showing potentially more significant results if utilized for a more extended period.
+We’re very pleased with how our partnership with Nostra has panned out so far. We had been struggling with generating consistent MQLs off of our website and needed a creative solution, so we’re thankful that Nostra’s tech could get us the results we wanted. Excited for future tests with the Nostra team!
+",576,"1. What is the main challenge that our client faced?
+2. What solution did Nostra provide to help our client overcome their challenge?
+3. What were the results of using Nostra's solution?
+4. How does Nostra's technology continue to evolve and learn?","1. The main challenge that our client faced was generating Marketing Qualified Leads (MQLs) from their website.
+2. Nostra provided our client with an auto-optimization solution that determined how and what content to display to each visitor on the website.
+3. The results of using Nostra's solution were a 252% lift in website conversion rate, generating heaps of new MQLs for our client's sales team.
+4. Nostra's technology continues to evolve and learn by analyzing our client's customer profiles and personas."
+"Veldenskoen immediately saw their conversion rate skyrocket which led to their best revenue months of all time.
+Veldenskoen was founded by Angel and Steve Watts and backed by Mark Cuban and Ashton Kutcher via Shark Tank.
+To begin with, Veldenskoen immediately began using Nostra’s Edge Delivery Engine to speed up their site. Next, using Nostra, Veldenskoen created dozens of pieces of content and color schemes to experiment with on PDPs and the homepage.After that, without having to write a single line of code, Veldenskoen went live. They immediately saw their conversion rate skyrocket which led to their best revenue months of all time.
+",146,"1. What was the main factor that led to Veldenskoen's best revenue months?
+2. How did Veldenskoen's conversion rate skyrocket?
+3. What was the main benefit of using Nostra's Edge Delivery Engine?","1. The main factor that led to Veldenskoen's best revenue months was their conversion rate skyrocket.
+2. Veldenskoen's conversion rate skyrocketed because they used Nostra's Edge Delivery Engine to speed up their site.
+3. The main benefit of using Nostra's Edge Delivery Engine was that it sped up their site."
+"Bicycle Wearhouse, uses Nostra to greatly increase conversion rate, add to cart rate and other key metrics in order to boost revenue even with a seasonal drop in traffic.
+Like many online retailers, Bicycle Warehouse is fighting tooth and nail to continue the revenue and profit spikes from increased work from home.
+The Challenge
+With less people shopping online and more competition popping up, they had to find a way to monetize a higher percentage of traffic.
+The Solution
+As a result, Bicycle Wearhouse turned to Nostra to increase their conversion rate. To begin with, Bicycle Wearhouse determined that the drop off in their funnel was mainly due to a low add to cart rate on their product display pages.
+The Results
+Next, using Nostra, Bicycle Wearhouse created dozens of pieces of content and color schemes to try out. After that, without having to write a single line of code, Bicycle Wearhouse went live. On top of that, Bicycle Wearhouse used Nostra to make their website 50% faster. The results were amazing, even with deflated traffic due to seasonality revenue went up.
+Since deploying Nostra on all product pages, Bicycle Wearhouse boosted their Add to Cart rate by 24% resulting in a 25% increase in conversion rate and an increase in ecommerce revenue even with traffic dropping by over 15%.
+",272,"1. What did Bicycle Warehouse use Nostra to do?
+2. What was the challenge that Bicycle Warehouse was facing?
+3. What was the solution that Bicycle Warehouse turned to Nostra for?
+4. What were the results of using Nostra?","1. Bicycle Warehouse used Nostra to increase their conversion rate.
+2. The challenge that Bicycle Warehouse was facing was a low add to cart rate on their product display pages.
+3. The solution that Bicycle Warehouse turned to Nostra for was to create dozens of pieces of content and color schemes to try out.
+4. The results of using Nostra were that Bicycle Warehouse boosted their Add to Cart rate by 24% resulting in a 25% increase in conversion rate and an increase in ecommerce revenue even with traffic dropping by over 15%."
+"Insider Finance, a leading Fintech platform that sells online financial tools, uses Nostra to increase signups and purchases.
+Before Nostra, Insider Finance struggled to optimize their website for new customers. They knew that it was important but could not move the needle with traditional split testing. On top of that, as a fast growing business, they never had enough time to run all the experiments they could think of.
+Success to Insider Finance looked like more purchases on their site. Nostra helped them achieve this in under 24 days.
+To do this, we had to focus on 3 key steps:
+    1. Identifying where there was room for improvement.
+    2. Creating high quality content.
+    3. Using AI to determine what content to show each visitor.
+alt text
+Data + Analysis:
+We identified two CTA buttons, two headers and one subtext to try out new variations and built three 3 content variations for each element we wanted to test.
+Once the content was built, the Insider Finance team waited on results while focusing on other aspects of their business.
+Over the next 24 days we saw the conversion rate jump from 3.65% to ~ 7% on their site.
+Contact arthur@nostra.ai for more information
+",269,"1. What was the main problem that Insider Finance was experiencing before using Nostra?
+2. How did Nostra help increase signups and purchases on Insider Finance's website?
+3. What were the three steps that Nostra took to help increase signups and purchases on Insider Finance's website?","1. Insider Finance was experiencing difficulty optimizing their website for new customers before using Nostra.
+2. Nostra helped increase signups and purchases on Insider Finance's website by identifying where there was room for improvement and creating high quality content.
+3. The three steps that Nostra took to help increase signups and purchases on Insider Finance's website were identifying where there was room for improvement, creating high quality content, and using AI to determine what content to show each visitor."
+"Every 10 days Nostra has increased conversions by at least 20%.
+Nostra's state of the art AI increases conversions, click through rate and other key metrics by eliminating the manual process of running A/B tests on web pages. In less than 4 weeks, Nostra helped a leading automotive magazine increase the Click Through Rate (CTR) on a critical web page by over 251%.
+A leading automotive magazine was looking to increase the amount of visitors who clicked ""Buy Now"" on their website. Previously, they struggled to make significant progress on their CTR by running A/B tests.
+As soon as they started with Nostra's AI based solution, they were immediately hooked. The founder of the magazine went on to say, ""It is going to be impossible for me to go back to A/B testing after using Nostra's revolutionary AI optimization software""
+After onboarding in less than 30 minutes, Nostra took over. Within 24 days, Nostra increased CTR by over 251%. UPDATE: 3 weeks after the initial test, still with no input from the magazine, the CTR has continued to increase. Every 10 days Nostra has increased conversions by at least 20%. While it is impossible for this to continue forever, it is clear that Nostra's software continuously improves web conversions without requiring human input.
+Typical conversion rate optimization softwares that are based on A/B testing level off after testing is complete. Nostra provides a game changing alternative by using AI to continuously optimize web pages without requiring additional time.
+After 24 days, the CTR on this market leading automotive magazine is consistently 2.5X the industry average.
+Data + Analysis:
+Over 24 days, Nostra decreased the cost to acquire a new customer by 19%, increased click through rate (CTR) by 251% (from day 1 to 24) by deciding between 12,754,584 possible combinations of content while requiring less than an hour of work from the client.
+Over 50% of “magazine’s” original content from pre Nostra was still being shown on the 24th day. Given Nostra’s system works by finding arbitrage between content pieces and combinations, we expect conversions to be higher the more new content is shown.
+Nostra allowed “magazine” to focus their time on content creation and strategy rather than optimizing web pages. In the end, “magazine” was able to see a significant ROI within 1 week of using Nostra’s platform and continues to see improvements in conversions and CTR.
+Data that Nostra collected on what content performs well for a given audience will also be used to improve content on paid acquisition channels. For example, we can determine for ""FB Ad 1"" that ""image 2"" performs better than ""image 1"" and can suggest updating ""FB Ad 1"" with ""image 2"" rather than ""image 1"". As well, our AI can suggest what time of day to display different content and advertisements.
+Setup Process:
+We use the information we collect in various ways, including to:
+Provide specific access to content management system (or custom-built website), content delivery network and cloud provider.
+Insert the Nostra Tracking Script in the header of web pages that are going to be optimized.
+Construct and approve content to be tested.
+“The ease of integration as well as increased conversions allowed us to experiment at a rate that I have never experienced before. We gave Nostra the proper access, got the content ready and then handed the keys over to the Nostra team and they optimized our site. The entire process was quick, easy and provided an incredible ROI” -Founder “magazine”
+Contact arthur@nostra.ai for more information
+Mom Bombs, a leading Bath Bomb brand, uses Nostra to increase the rate visitors explore the website and add products to their cart.
+",805,"1. What was the automotive magazine's goal?
+2. How did Nostra help the automotive magazine achieve their goal?
+3. What did Nostra do that other conversion optimization software couldn't?
+4. How did Nostra help the automotive magazine save time and money?","1. The automotive magazine's goal was to increase the number of visitors who clicked ""Buy Now"" on their website.
+2. Nostra helped the automotive magazine achieve their goal by increasing CTR by 251%.
+3. Nostra did that other conversion optimization software couldn't by using AI to continuously optimize web pages without requiring additional time.
+4. Nostra helped the automotive magazine save time and money by decreasing the cost to acquire a new customer by 19%."
+"Mom Bombs, a leading Bath Bomb brand, uses Nostra to increase the rate visitors explore the website and add products to their cart.
+The Challenge
+Before Nostra, Mom Bombs had a high number of visitors that bounced off their site without exploring products. They knew that it was important to drive customers down the funnel but could not get there with traditional split testing.
+Success to Mom Bombs looked like visitors exploring their site in more depth and selecting the Add to Cart button more frequently. Nostra helped them achieve this in under 45 days with little human interaction.
+The Solution
+To do this, we had to focus on 3 key steps:
+1. Testing CTAs, button colors and description
+2. Creating high quality content
+3. Using AI to determine what content to show each visitor
+The Results
+We identified dozens of CTA buttons, descriptions and color schemes to try out and used AI to build upwards of 5 content variations for each content element. Once the content was built, the Mom Bomb team waited on results while focusing on other aspects of their business. Over the next 42 days we saw the click through rates jump by over 35% on average. These results proved, with great than 99% statistical significance, that visitors who saw Nostra were significantly more likely to explore the site and add products to cart. Mom Bombs continues to experiment across their site using Nostra.
+",281,"1. What was Mom Bombs' main challenge before using Nostra?
+2. What did success to Mom Bombs look like?
+3. What were the three key steps to achieving this success?
+4. What were the results of using Nostra?","1. Mom Bombs' main challenge before using Nostra was getting visitors to explore the site in more depth.
+2. Success to Mom Bombs looked like visitors exploring their site in more depth and selecting the Add to Cart button more frequently.
+3. The three key steps to achieving this success were testing CTAs, creating high quality content, and using AI to determine what content to show each visitor.
+4. The results of using Nostra were that click through rates jumped by over 35% on average."
+"Major Features/Products
+Site Acceleration
+Serve users faster - increase conversion through speed as a feature
+Make any website document load time in sub 100ms (Average store is over 500ms) 
+Decrease total load time by >40%
+Static Site Generation
+Pre-render pages for bots (Google,FB, etc)
+Improve Speed scores for SEO ranking/decreased CPC
+",82,"1. What is Site Acceleration?
+2. What are the benefits of using Site Acceleration?
+3. What is Static Site Generation?
+4. What are the benefits of using Static Site Generation?","1. Site Acceleration is a feature that helps websites load faster.
+2. The benefits of using Site Acceleration include increased conversion rates and decreased total load times.
+3. Static Site Generation is the process of pre-rendering pages for bots such as Google and Facebook.
+4. The benefits of using Static Site Generation include improved Speed scores for SEO ranking and decreased CPC."
+"Speed is all about bytes
+Less
+    Compression
+    Caching
+    Don’t send useless bytes (minification)
+    Fewer packets always better
+Faster
+    Share existing connection
+    Serve faster
+In the right order
+    Order css, images, scripts
+    Lazy load whenever you can
+    Preload what is important
+",95,"1. What are some ways to speed up a website?
+2. What are the benefits of compression?
+3. What is the best way to order css, images, and scripts?","1. Some ways to speed up a website include compression, caching, and minimizing the number of bytes sent.
+2. The benefits of compression include faster download times and reduced bandwidth usage.
+3. The best way to order css, images, and scripts is by importance. Lazy loading is beneficial because it allows resources to be loaded only when they are needed."
+"Site Acceleration
+Workers on the edge
+    In front of Shopify via DNS
+    50ms latency to 95% of internet users
+Generic, can handle any origin
+    Shopify
+    WooCommerce
+    Salesforce Commerce
+    BigCommerce (CSRF)
+    Wordpress
+    Headless
+    Webflow 
+Cache most of the page, still need some dynamic elements
+    Cart Counter
+    Cart contents (for slide-in carts)
+    Web pixels
+We measure actual user load times
+Can report on individual URL
+",139,1. What is the Shopify site acceleration solution?,1. The Shopify site acceleration solution is a DNS-based solution that improves the latency for Shopify customers. It can handle any origin and provides 50 ms latency to 95% of internet users.
+"Site Acceleration Roadmap
+Global Cache (in testing)
+Item webhooks to update the cache
+Speed preview site
+    Ability to show acceleration of any site, without config
+Predict next page, preload
+Cache the cart by person
+Add cart value to get $/100ms
+Critical CSS
+Include other non-cloudflare content
+    Third party app assets
+",85,1. What is the goal of the Global Cache?,1. The goal of the Global Cache is to speed up the loading of websites.
+"Static Site Generation
+Pre-render site pages for bots
+Reduce the number of requests
+    Strip <script> tags
+    Lazy load images below the fold
+Allows customer to verify via third party
+We focus on:
+    Total Blocking Time ( almost 0)
+    First Contentful Paint
+    Largest Contentful Paint
+    Speed Index
+",88,1. What is the main benefit of using a static site generator?,1. Static site generators aim to improve website performance by reducing the number of requests to the server and by lazy loading images.
