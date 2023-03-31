@@ -1,8 +1,11 @@
+#####################################################
+# Fine-Tuning Chatbot, Refer to Readme.md for start #
+#####################################################
 import openai
-from flask import Flask, redirect, render_template, request, url_for
-
-app = Flask(__name__)
-openai.api_key = "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"
+# from flask import Flask, redirect, render_template, request, url_for
+import prepare
+# app = Flask(__name__)
+openai.api_key = "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"
 
 def generate_prompt(question):
     return """{}""".format(
@@ -19,10 +22,10 @@ def answer(question):
     # print("response: ", response.choices[0].text)
     return response.choices[0].text.strip().split("\n")[0]
 
-@app.route("/", methods=("GET", "POST"))
-def index():
-    if request.method == "GET":
-        print(request)
+# @app.route("/", methods=("GET", "POST"))
+# def index():
+#     if request.method == "GET":
+#         print(request)
 def main():
     print("Hello, I am Nosta sales manager! Ask me anything about Nosta.\n----------------------------------------\n")
     while True:

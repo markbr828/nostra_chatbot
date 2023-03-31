@@ -1,0 +1,8 @@
+pandas
+typing
+transformers
+pycryptodome
+secretstorage
+nltk
+openai
+pywin32
